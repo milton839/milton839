@@ -1,5 +1,5 @@
 
-![I am a web developer](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/277527631_1475761926173169_9162753583213414170_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGniybR6ygqyjpMVf2qNvzIbEFSTMaBVUxsQVJMxoFVTK0bCqRj_YD5MZVj6EWAaL1t1J9YcG8rHLlXcg8mptIE&_nc_ohc=kwhcBe5Z9oYAX-NEMuY&_nc_ht=scontent.fdac24-2.fna&oh=00_AT-fMjrWSBO6sQx2AdFcn4oPDOWvqOSROWLHW8xYAlkU0A&oe=635043C8)
+![I am a web developer](https://media-exp1.licdn.com/dms/image/C5603AQG1HPuY54u8Dw/profile-displayphoto-shrink_800_800/0/1619379389703?e=1671062400&v=beta&t=0DqfmyrZ_SSRjbJxOsFeraLZ_JaNIFyGkxxXMiqC3JQ)
 ### Hi there 👋, I am Azizul Islam Milton
 #### I am a web developer
 I’m a Full-Stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Javascript but some technologies I enjoy working with include ReactJS, Node js,as well as PHP.
